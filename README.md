@@ -19,7 +19,7 @@ Tu Kha (သုခ) is a **C# ASP.NET (.NET 4.0) web application** for tracking d
 - 🖼 **Save Result as Image** – Users can export the calorie/goal results as an image.  
 - 📝 **Profile Management** – Update profile (name, weight, height, age, goals, gender), except email.  
 - ✉ **Feedback System** – Send feedback to admin.  
-- 🌗 **Light & Dark Mode** – Dark mode preferred for personal use.
+- 🌗 **Light & Dark Mode** – Personally, Dark mode is preferred.
 
 ### Admin Features
 - 🍴 **Food Management** – Add or update food categories and items.  
